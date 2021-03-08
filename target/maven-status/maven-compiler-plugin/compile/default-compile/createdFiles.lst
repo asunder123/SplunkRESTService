@@ -1,0 +1,8 @@
+com\dino\splunk\rest\SplunkResult.class
+com\dino\splunk\rest\SplunkServiceImpl.class
+com\dino\splunk\rest\SplunkEventCollection.class
+com\dino\splunk\rest\SplunkServicesApplication.class
+com\dino\splunk\rest\MyEntity.class
+com\dino\splunk\rest\SplunkController.class
+com\dino\splunk\rest\SplunkModel.class
+com\dino\splunk\rest\XRayInspector.class
